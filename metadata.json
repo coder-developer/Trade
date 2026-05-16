@@ -1,0 +1,8 @@
+{
+  "name": "AI Crypto Bot Manager",
+  "description": "A real-time trading bot that manages 10 wallets using AI-driven strategies to optimize profits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
